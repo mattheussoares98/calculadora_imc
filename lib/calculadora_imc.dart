@@ -6,9 +6,7 @@ class Calculator {
       messageForDigitInConsole: "Digite o seu nome:",
     );
 
-    double height = -1;
-
-    height = _getDoubleValueThatUserTyped(
+    double height = _getDoubleValueThatUserTyped(
       messageForDigitInConsole: "Digite o sua altura:",
     );
 
